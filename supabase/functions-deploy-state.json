@@ -1,0 +1,13 @@
+{
+  "projectId": "72981925",
+  "functions": {
+    "export-ical": {
+      "hasChanged": false,
+      "hash": "c8faf50e808570333f08cae64caf14673a72ddff349cc0c3767d64aa975fef63"
+    },
+    "sync-ical": {
+      "hasChanged": false,
+      "hash": "3a5367f62e61799169e3e052a7ecad6b48f8712f56cb6696b03224a9a7c269ea"
+    }
+  }
+}
